@@ -280,6 +280,9 @@ module pes_wm(clk, reset, door_close, start, filled, detergent_added, cycle_time
 endmodule
  ~~~
 
+<img width="538" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/02f00393-9d53-44c4-9b7b-4fd1b638c404">
+
+
 ## systemverilog code for tb.v file
 ~~~
 module pes_wm_tb();
@@ -346,6 +349,18 @@ iiitb_wm machine1(clk, reset, door_close, start, filled, detergent_added, cycle_
   end
 endmodule
 ~~~
+
+<img width="529" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/e418d032-a45a-41ed-a951-7df97bc90586">
+
+<img width="532" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/948084b7-d7e9-4431-bf2c-a2ed74a440b1">
+
+<img width="434" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/65a4dbe7-0cc6-4a1f-a5e8-dd9875242bfe">
+
+<img width="480" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/2361f5de-81fd-44db-bfa2-848c083ef9cc">
+
+
+
+
 
 
 
