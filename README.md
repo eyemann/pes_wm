@@ -366,6 +366,35 @@ endmodule
 <img width="480" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/2361f5de-81fd-44db-bfa2-848c083ef9cc">
 
 
+RTL Synthesis
+
+<img width="435" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/06d17de8-1201-4c81-a610-d1ec26ed33f6">
+
+<img width="334" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/3a72071d-b13e-4fb3-9c6d-622f17736531">
+
+<img width="600" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/42f7c4ec-65a7-497c-954e-cf0e8f0c61d5">
+
+<img width="396" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/a81a7194-057c-4c9e-891d-807de382be0b">
+
+<img width="390" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/2b5da2e7-3df4-4f5a-9a01-55872bb3f03e">
+
+<img width="359" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/e205b096-52a9-4262-9831-9397972f0b99">
+
+GLS
+
+<img width="525" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/e53fada5-3ad3-423d-ab60-06c915ceb768">
+
+<img width="525" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/febd548d-fec1-498e-b95b-3f53fc983e14">
+
+
+
+
+
+
+
+
+
+
 
 
 
