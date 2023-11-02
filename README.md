@@ -459,12 +459,21 @@ ls`
 + `./a.out`
 
 <img width="525" alt="image" src="https://github.com/eyemann/pes_wm/assets/142375203/febd548d-fec1-498e-b95b-3f53fc983e14">
+</details>
+</details>
+
+<details>
+<summary> Physical Design </summary>
+
+![image](https://github.com/eyemann/pes_wm/assets/142375203/0cea8736-3857-4d22-b70b-bc348bd9d441)
+
+![image](https://github.com/eyemann/pes_wm/assets/142375203/af6a8cf6-2f92-4e46-813b-8a7c7de4559e)
+
+![image](https://github.com/eyemann/pes_wm/assets/142375203/b2f44c8d-daa5-4257-8823-2766b1bbbe95)
 
 
 
-
-
-
+</details>
 
 
 
