@@ -464,12 +464,36 @@ ls`
 
 <details>
 <summary> Physical Design </summary>
+<br>
+	
+<h1> Physical design </h1> is the process of transforming a high-level hardware description of a digital circuit into the actual physical layout that can be fabricated as a semiconductor chip. It involves several key steps and considerations, and here's an overview of the ASIC physical design process:
 
-![image](https://github.com/eyemann/pes_wm/assets/142375203/0cea8736-3857-4d22-b70b-bc348bd9d441)
+**Floorplanning:** In this initial step, you create a high-level floorplan that defines the placement of different functional blocks, the core area, and the location of I/O pads. Floorplanning plays a crucial role in determining the chip's overall size, shape, and organization.
 
-![image](https://github.com/eyemann/pes_wm/assets/142375203/af6a8cf6-2f92-4e46-813b-8a7c7de4559e)
+**Placement:** During placement, you determine the precise location of individual logic gates, flip-flops, and other components within the core area defined in the floorplan. The goal is to optimize for factors like signal routing, power distribution, and heat dissipation.
 
-![image](https://github.com/eyemann/pes_wm/assets/142375203/b2f44c8d-daa5-4257-8823-2766b1bbbe95)
+**Clock Tree Synthesis (CTS):** Clock tree synthesis involves building an optimized clock distribution network to ensure that clock signals are delivered with minimal skew and jitter to all parts of the chip. Clock domains and clock gating are also defined during this step.
+
+**Routing: **Routing involves connecting the components placed on the chip in a way that satisfies the specified timing and electrical constraints. Global routing connects major blocks, while detailed routing creates the final detailed interconnections.
+
+**Power Distribution Network:** The power distribution network (PDN) is designed to provide a stable and efficient power supply to all components of the ASIC. This includes power grid design and the placement of decoupling capacitors.
+
+**Signal Integrity and Timing Analysis: **Extensive analysis is performed to ensure that the chip meets the required timing constraints and that signal integrity is maintained throughout the design.
+
+**Design for Manufacturability (DFM):** DFM considerations address issues related to manufacturing, yield, and reliability. Techniques are employed to mitigate manufacturing variations and improve the chances of successful fabrication.
+
+**Physical Verification:** Various physical verification steps, including design rule checking (DRC) and layout vs. schematic (LVS) checks, are performed to ensure that the layout adheres to the foundry's process rules and is functionally correct.
+
+**Extraction and Simulation:** Parasitic elements (resistance and capacitance) are extracted from the layout, and simulations are run to refine the timing and power models.
+
+**Mask Generation:** The final layout data is used to create photomasks, which are used in the semiconductor fabrication process.
+
+**Tapeout:** The tapeout is the process of submitting the final design files to the semiconductor foundry for fabrication. It's a critical step that marks the transition from design to manufacturing.
+
+
+![image](https://github.com/eyemann/pes_wm/assets/142375203/61691e37-72db-4c54-baa0-5c52281f3fce)
+
+![image](https://github.com/eyemann/pes_wm/assets/142375203/83648437-14fa-4774-8b4b-e16200ead70d)
 
 
 
